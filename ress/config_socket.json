@@ -1,0 +1,5 @@
+{
+"ca":{"host":"127.0.0.1", "port":65100,"time_to_wait":5},
+"client_receiver":{"host":"127.0.0.1","port":65101,"time_to_wait":5},
+"client_sender":{"host":"127.0.0.1","port":65102,"time_to_wait":5}
+}

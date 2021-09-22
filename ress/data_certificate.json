@@ -1,0 +1,28 @@
+{
+"ca":{
+    "countryName":"FR",
+    "stateOrProvinceName":"Marne",
+    "localityName":"Reims",
+    "organizationName":"Autority Certification",
+    "organizationalUnitName":"CAAC",
+    "commonName":"AutoriteCertification",
+    "emailAddress":"ac@ac.fr"
+    },
+"sender":{
+    "countryName":"FR",
+    "stateOrProvinceName":"Ile de France",
+    "localityName":"Paris",
+    "organizationName":"Client1_Sender",
+    "organizationalUnitName":"Client1Sender",
+    "commonName":"Csender",
+    "emailAddress":"client@sender.com"
+},
+"receiver":{
+    "countryName":"FR",
+    "stateOrProvinceName":"Oise",
+    "localityName":"Chantilly",
+    "organizationName":"Client2_Receiver",
+    "organizationalUnitName":"Client2Receiver",
+    "commonName":"Creceiver",
+    "emailAddress":"client@receiver.com"
+}}
